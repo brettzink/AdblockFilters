@@ -1,7 +1,3 @@
 [Adblock Plus 2.0]
-thecourier.com##DIV[id="ta_paywall"][class="ta_popup ta_centralPopup"]
-thecourier.com##DIV[id="ta_background"]
-thecourier.com##DIV[id="ta_invisible"]
-thecourier.com##DIV[id="ta_pagesLeftPopup"]
 
 ||findlaycourier-oh-pw.newsmemory.com/?meter
